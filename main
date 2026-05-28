@@ -1,0 +1,3 @@
+from calculator import add, subtract 
+print("Результат додавання:", add(10, 5)) 
+print("Результат віднімання:", subtract(10, 5))
